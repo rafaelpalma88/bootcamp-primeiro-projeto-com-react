@@ -8,5 +8,10 @@ Para rodar o projeto, primeiramente faça o clone e posteriomente instale as dep
 
 yarn install
 
+Após isto, execute o projeto através do comando:
 
+yarn start
+
+Este é um projeto em que me possibilitou aprender o consumo de api's utilizando o axios. 
+Aprendi também a utilizar Style Components, além de ser um dos primeiros projetos em que eu utilizei o TypeScript com React.
 
